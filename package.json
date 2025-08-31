@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bennyluk/Sienna-Accessibility-Widget.git"
+    "url": "git+https://github.com/sswedan/Sienna-Accessibility-Widget.git"
   },
   "author": "Benny Luk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bennyluk/Sienna-Accessibility-Widget/issues"
+    "url": "https://github.com/sswedan/Sienna-Accessibility-Widget/issues"
   },
-  "homepage": "https://accessibility-widget.pages.dev/",
+  "homepage": "",
   "devDependencies": {
-    "esbuild": "0.25.1",
+    "esbuild": "^0.25.1",
     "html-minifier": "^4.0.0"
   }
 }
