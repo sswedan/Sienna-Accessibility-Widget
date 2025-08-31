@@ -45,6 +45,10 @@ function getButtonStyle() {
     const centerX = `calc(50% - 27.5px - ${offsetX}px)`;
 
     switch (position) {
+        case "none":
+            return {
+                display: "none"
+            };
         case "bottom-right":
             return {
                 bottom: `${offsetY}px`,
